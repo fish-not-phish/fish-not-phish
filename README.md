@@ -87,11 +87,3 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px" />
 </p>
 
-
-
-
-<!-- Snake Contribution Graph -->
-<br/>
-<div align="center">
-  <img src="https://github.com/fish-not-phish/fish-not-phish/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>

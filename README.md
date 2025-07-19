@@ -1,14 +1,97 @@
-<h1 align="center">Hi 👋, I'm fishnotphish</h1>
-<h3 align="center">Manager, Cyber Threat Intelligence Highly knowledgeable in both Java and Python.</h3>
+<!-- Profile Header -->
 
-- 💬 Ask me about **Django or Python**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fishnotphish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fishnotphish_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fishnotphish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fishnotphish" height="30" width="40" /></a>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cyber%20Threat%20Intelligence;Experienced%20in%20Fullstack%20Development;Django%20enthusiast%20and%20security%20professional;Always%20analyzing%20emerging%20threats!&font=Fira%20Code&center=true&width=650&height=45&color=FF69B4&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+---
+
+### 👋 Hi, I'm **fishnotphish**
+
+> Manager, Cyber Threat Intelligence  
+
+> Focused on **threat analysis**, **strategic intelligence**, and **detection engineering**
+
+💬 Ask me about **Python**, **Django**, or **Cyber Threat Analysis**  
+🔐 Leading efforts in strategic threat detection and intelligence integration  
+🎯 Passionate about aligning security teams with evolving threat landscapes  
+
+---
+<!-- Top Open Source Projects -->
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards -->
+  <p align="center" style="margin-top: 30px;">
+    <a href="https://github.com/fish-not-phish/open-vbrowser">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=open-vbrowser&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="open-vbrowser" />
+    </a>
+    <a href="https://github.com/fish-not-phish/vbrowsers">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=vbrowsers&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="vbrowsers" />
+    </a>
+    <a href="https://github.com/fish-not-phish/ttpnav">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=ttpnav&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="ttpnav" />
+    </a>
+    <a href="https://github.com/fish-not-phish/cb-inspector">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=cb-inspector&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="cb-inspector" />
+    </a>
+    <a href="https://github.com/fish-not-phish/FHook-Django">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=FHook-Django&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="FHook-Django" />
+    </a>
+    <a href="https://github.com/fish-not-phish/FHook">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=FHook&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="FHook" />
+    </a>
+  </p>
+
+
+
+
+<!-- GitHub Stats and Languages -->
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;" style="margin-top: 30px; margin-bottom:30px;">
+
+  <a href="https://github.com/fish-not-phish">
+    <img alt="🐟 Fishnotphish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fish-not-phish&show_icons=true&theme=radical&title_color=FF69B4&text_color=F8F8F2&icon_color=79FF97&bg_color=0d1117" height="200" />
+  </a>
+  <a href="https://github.com/fish-not-phish">
+    <img alt="🐟 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish-not-phish&layout=compact&theme=radical&title_color=FF69B4&text_color=F8F8F2&bg_color=0d1117" height="200" />
+  </a>
+
+</div>
+
+---
+
+<p align="center" style="margin-top:30px;">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/git-robbie/8bithemant/refs/heads/master/svg/dev/languages/csharp_dotnet.svg" alt="C Sharp" style="vertical-align:top; margin:4px" />
+   <img src="https://raw.githubusercontent.com/git-robbie/8bithemant/refs/heads/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px" />
+   <img src="https://raw.githubusercontent.com/git-robbie/8bithemant/refs/heads/master/svg/dev/languages/js.svg" alt="JS" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Vue.js" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Chrome DevTools" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top; margin:4px" />
+  <img src="https://github.com/git-robbie/8bithemant/raw/refs/heads/master/svg/dev/misc/security.svg" alt="Security" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px" />
+  <img src="https://github.com/git-robbie/8bithemant/raw/refs/heads/master/svg/dev/services/dockerhub.svg" alt="Docker" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="GCP" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px" />
+</p>
+
+
+
+
+<!-- Snake Contribution Graph -->
+<br/>
+<div align="center">
+  <img src="https://github.com/fish-not-phish/fish-not-phish/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>

@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3

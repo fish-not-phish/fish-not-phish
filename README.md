@@ -28,22 +28,22 @@
   <!-- Repo info cards -->
   <p align="center" style="margin-top: 30px;">
     <a href="https://github.com/fish-not-phish/open-vbrowser">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=open-vbrowser&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="open-vbrowser" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=open-vbrowser&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97&cache_seconds=1800&cb=1" alt="open-vbrowser" />
     </a>
     <a href="https://github.com/fish-not-phish/vbrowsers">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=vbrowsers&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="vbrowsers" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=vbrowsers&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97&cache_seconds=1800&cb=1" alt="vbrowsers" />
     </a>
     <a href="https://github.com/fish-not-phish/ttpnav">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=ttpnav&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="ttpnav" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=ttpnav&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97&cache_seconds=1800&cb=1" alt="ttpnav" />
     </a>
     <a href="https://github.com/fish-not-phish/cb-inspector">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=cb-inspector&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="cb-inspector" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=cb-inspector&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97&cache_seconds=1800&cb=1" alt="cb-inspector" />
     </a>
     <a href="https://github.com/fish-not-phish/FHook-Django">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=FHook-Django&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="FHook-Django" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=FHook-Django&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97&cache_seconds=1800&cb=1" alt="FHook-Django" />
     </a>
     <a href="https://github.com/fish-not-phish/FHook">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=FHook&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97" alt="FHook" />
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fish-not-phish&repo=FHook&theme=radical&bg_color=0d1117&title_color=FF69B4&hide_border=true&icon_color=79FF97&cache_seconds=1800&cb=1" alt="FHook" />
     </a>
   </p>
 

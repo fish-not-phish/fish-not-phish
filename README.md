@@ -54,10 +54,10 @@
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;" style="margin-top: 30px; margin-bottom:30px;">
 
   <a href="https://github.com/fish-not-phish">
-    <img alt="🐟 Fishnotphish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fish-not-phish&show_icons=true&theme=radical&title_color=FF69B4&text_color=F8F8F2&icon_color=79FF97&bg_color=0d1117" height="200" />
+    <img alt="🐟 Fishnotphish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fish-not-phish&show_icons=true&theme=radical&title_color=FF69B4&text_color=F8F8F2&icon_color=79FF97&bg_color=0d1117&cache_seconds=1800&cb=1" height="200" />
   </a>
   <a href="https://github.com/fish-not-phish">
-    <img alt="🐟 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish-not-phish&layout=compact&theme=radical&title_color=FF69B4&text_color=F8F8F2&bg_color=0d1117" height="200" />
+    <img alt="🐟 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish-not-phish&layout=compact&theme=radical&title_color=FF69B4&text_color=F8F8F2&bg_color=0d1117&cache_seconds=1800&cb=1" height="200" />
   </a>
 
 </div>

@@ -13,7 +13,7 @@
 
 ### 👋 Hi, I'm **fishnotphish**
 
-> Manager, Cyber Threat Intelligence  
+> Manager, Security Operations  
 
 > Focused on **threat analysis**, **strategic intelligence**, and **detection engineering**
 
